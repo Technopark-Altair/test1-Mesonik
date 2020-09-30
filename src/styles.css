@@ -7,21 +7,21 @@
   .form {
     text-align: center;
   }
-  .mail:hover {
-    background: #6495ED;
-    color: aliceblue;
+  .mail:focus {
+    outline: none;
+  box-shadow: 0 0 0 3px lightskyblue;
   }
-  .fio:hover {
-    background: #6495ED;
-    color: aliceblue;
+  .fio:focus {
+    outline: none;
+  box-shadow: 0 0 0 3px lightskyblue;
   }
-  .password:hover {
-    background: #6495ED;
-    color: aliceblue;
+  .password:focus {
+    outline: none;
+  box-shadow: 0 0 0 3px lightskyblue;
   }
-  .time:hover {
-    background: #6495ED;
-    color: aliceblue;
+  .time:focus {
+    outline: none;
+  box-shadow: 0 0 0 3px lightskyblue;
   }
   .button_submit:hover {
     background: #6495ED;
